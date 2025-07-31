@@ -1,0 +1,138 @@
+
+OPTIMIZE_KL: Iteration 0001 ⛰:+3.4385e+04
+OPTIMIZE_KL: Linear sampling status (0, 0)
+OPTIMIZE_KL: #(KL minimization steps) 35
+OPTIMIZE_KL: Likelihood residual(s):
+'reduced χ²: 4.7e+01± 1.6e+01, avg:    +0.65±     1.4, #dof:    100'
+
+OPTIMIZE_KL: Prior residual(s):
+logamplogampasperity    :: 'reduced χ²:     2.4±     1.9, avg:     +1.4±    0.67, #dof:      1'
+logamplogampflexibility :: 'reduced χ²:     7.8±     4.8, avg:     +2.6±    0.92, #dof:      1'
+logamplogampfluctuations:: 'reduced χ²:     1.8±     1.7, avg:     -1.1±    0.74, #dof:      1'
+logamplogamploglogavgslope:: 'reduced χ²:     3.2±     3.2, avg:     +1.2±     1.3, #dof:      1'
+logamplogampspectrum    :: 'reduced χ²:     1.7±   0.014, avg: -0.00041±   0.014, #dof:   3238'
+logampxi                :: 'reduced χ²:     1.6±   0.012, avg:  +0.0064±  0.0056, #dof:  16384'
+logampzeromode          :: 'reduced χ²:     1.4±    0.98, avg:     +1.1±    0.45, #dof:      1'
+signsignasperity        :: 'reduced χ²:     6.6±     3.0, avg:     +2.5±    0.59, #dof:      1'
+signsignflexibility     :: 'reduced χ²:     6.7±     6.2, avg:     +2.2±     1.4, #dof:      1'
+signsignfluctuations    :: 'reduced χ²: 2.8e+01±     6.5, avg:     -5.2±    0.62, #dof:      1'
+signsignloglogavgslope  :: 'reduced χ²:     1.6±     1.8, avg:    -0.73±     1.0, #dof:      1'
+signsignspectrum        :: 'reduced χ²:     1.6±   0.014, avg:   +0.015±  0.0097, #dof:   3238'
+signxi                  :: 'reduced χ²:     1.6±   0.013, avg:   +0.011±   0.017, #dof:  16384'
+signzeromode            :: 'reduced χ²: 1.8e+01±     5.8, avg:     -4.1±     0.7, #dof:      1'
+
+
+OPTIMIZE_KL: Iteration 0002 ⛰:+2.1505e+04
+OPTIMIZE_KL: Linear sampling status (0, 0)
+OPTIMIZE_KL: #(KL minimization steps) 24
+OPTIMIZE_KL: Likelihood residual(s):
+'reduced χ²:     6.6±    0.83, avg:    -0.06±    0.29, #dof:    100'
+
+OPTIMIZE_KL: Prior residual(s):
+logamplogampasperity    :: 'reduced χ²:     2.0±     1.5, avg:     +1.3±    0.55, #dof:      1'
+logamplogampflexibility :: 'reduced χ²: 2.1e+01± 1.6e+01, avg:     +4.1±     1.9, #dof:      1'
+logamplogampfluctuations:: 'reduced χ²:    0.75±    0.55, avg:    -0.79±    0.34, #dof:      1'
+logamplogamploglogavgslope:: 'reduced χ²:     2.6±     1.6, avg:     +1.5±    0.51, #dof:      1'
+logamplogampspectrum    :: 'reduced χ²:     1.1±   0.018, avg:  +0.0014±  0.0095, #dof:   3238'
+logampxi                :: 'reduced χ²:     1.1±   0.015, avg:  +0.0029±  0.0034, #dof:  16384'
+logampzeromode          :: 'reduced χ²:     2.6±     2.0, avg:    +0.63±     1.5, #dof:      1'
+signsignasperity        :: 'reduced χ²: 1.3e+01±     4.8, avg:     +3.6±    0.67, #dof:      1'
+signsignflexibility     :: 'reduced χ²:     1.8±    0.87, avg:     +1.3±    0.34, #dof:      1'
+signsignfluctuations    :: 'reduced χ²: 1.2e+01±     1.1, avg:     -3.4±    0.16, #dof:      1'
+signsignloglogavgslope  :: 'reduced χ²:     0.7±    0.76, avg:    +0.63±    0.55, #dof:      1'
+signsignspectrum        :: 'reduced χ²:     1.1±    0.01, avg:   +0.011±   0.031, #dof:   3238'
+signxi                  :: 'reduced χ²:     1.1±   0.017, avg:  +0.0029±  0.0083, #dof:  16384'
+signzeromode            :: 'reduced χ²:     1.8±     1.2, avg:     -1.3±    0.46, #dof:      1'
+
+
+OPTIMIZE_KL: Iteration 0003 ⛰:+2.0634e+04
+OPTIMIZE_KL: Linear sampling status (0, 0, 0, 0)
+OPTIMIZE_KL: #(KL minimization steps) 20
+OPTIMIZE_KL: Likelihood residual(s):
+'reduced χ²:     6.7±     1.6, avg:   +0.088±    0.46, #dof:    100'
+
+OPTIMIZE_KL: Prior residual(s):
+logamplogampasperity    :: 'reduced χ²: 2.3e+01±     6.7, avg:     +4.8±     0.7, #dof:      1'
+logamplogampflexibility :: 'reduced χ²: 1.6e+01±     6.7, avg:     +3.9±    0.84, #dof:      1'
+logamplogampfluctuations:: 'reduced χ²:     1.2±    0.58, avg:     -1.1±    0.27, #dof:      1'
+logamplogamploglogavgslope:: 'reduced χ²:    0.67±     0.8, avg:   +0.058±    0.81, #dof:      1'
+logamplogampspectrum    :: 'reduced χ²:     1.1±   0.014, avg:    +0.02±   0.025, #dof:   3238'
+logampxi                :: 'reduced χ²:     1.0±   0.013, avg:  +0.0012±  0.0058, #dof:  16384'
+logampzeromode          :: 'reduced χ²:     2.3±     2.3, avg:     -1.3±    0.83, #dof:      1'
+signsignasperity        :: 'reduced χ²: 2.1e+01± 1.2e+01, avg:     +4.4±     1.3, #dof:      1'
+signsignflexibility     :: 'reduced χ²:    0.67±    0.53, avg:    -0.21±    0.79, #dof:      1'
+signsignfluctuations    :: 'reduced χ²:   2e+01±     2.8, avg:     -4.5±    0.32, #dof:      1'
+signsignloglogavgslope  :: 'reduced χ²: 1.5e+01±     4.8, avg:     +3.8±    0.63, #dof:      1'
+signsignspectrum        :: 'reduced χ²:     1.0±   0.016, avg:   +0.003±   0.017, #dof:   3238'
+signxi                  :: 'reduced χ²:     1.0±   0.015, avg:  +0.0011±  0.0049, #dof:  16384'
+signzeromode            :: 'reduced χ²:     3.3±     2.2, avg:     -1.7±    0.65, #dof:      1'
+
+
+OPTIMIZE_KL: Iteration 0004 ⛰:+2.0515e+04
+OPTIMIZE_KL: Linear sampling status (0, 0, 0, 0)
+OPTIMIZE_KL: #(KL minimization steps) 15
+OPTIMIZE_KL: Likelihood residual(s):
+'reduced χ²:     6.7±     1.3, avg:   +0.011±    0.26, #dof:    100'
+
+OPTIMIZE_KL: Prior residual(s):
+logamplogampasperity    :: 'reduced χ²:     7.3±     4.7, avg:     +2.5±     0.9, #dof:      1'
+logamplogampflexibility :: 'reduced χ²:   1e+01±     1.1, avg:     +3.2±    0.18, #dof:      1'
+logamplogampfluctuations:: 'reduced χ²:     1.3±    0.85, avg:     -1.1±    0.39, #dof:      1'
+logamplogamploglogavgslope:: 'reduced χ²:    0.75±    0.51, avg:    +0.81±    0.32, #dof:      1'
+logamplogampspectrum    :: 'reduced χ²:     1.0±   0.016, avg:  +0.0088±  0.0067, #dof:   3238'
+logampxi                :: 'reduced χ²:     1.0±   0.012, avg:  +0.0016±  0.0051, #dof:  16384'
+logampzeromode          :: 'reduced χ²: 1.1e+01±     9.7, avg:     -2.8±     1.7, #dof:      1'
+signsignasperity        :: 'reduced χ²: 1.1e+01±     8.1, avg:     +3.1±     1.3, #dof:      1'
+signsignflexibility     :: 'reduced χ²:    0.76±     1.3, avg:    -0.13±    0.86, #dof:      1'
+signsignfluctuations    :: 'reduced χ²:   2e+01±     2.7, avg:     -4.5±     0.3, #dof:      1'
+signsignloglogavgslope  :: 'reduced χ²:     6.2±     5.7, avg:     +2.2±     1.2, #dof:      1'
+signsignspectrum        :: 'reduced χ²:     1.0±    0.04, avg:   +0.007±   0.019, #dof:   3238'
+signxi                  :: 'reduced χ²:     1.0±   0.009, avg: +0.00094±  0.0062, #dof:  16384'
+signzeromode            :: 'reduced χ²:     5.4±     4.2, avg:     -2.1±    0.98, #dof:      1'
+
+
+OPTIMIZE_KL: Iteration 0005 ⛰:+2.0433e+04
+OPTIMIZE_KL: Linear sampling status (0, 0, 0, 0)
+OPTIMIZE_KL: #(KL minimization steps) 20
+OPTIMIZE_KL: Likelihood residual(s):
+'reduced χ²:     6.8±     2.5, avg:   +0.039±    0.35, #dof:    100'
+
+OPTIMIZE_KL: Prior residual(s):
+logamplogampasperity    :: 'reduced χ²:     2.6±     1.1, avg:     +1.6±    0.35, #dof:      1'
+logamplogampflexibility :: 'reduced χ²:   1e+01±     4.3, avg:     +3.1±    0.69, #dof:      1'
+logamplogampfluctuations:: 'reduced χ²:     2.1±     1.1, avg:     -1.4±    0.38, #dof:      1'
+logamplogamploglogavgslope:: 'reduced χ²:     9.5±     6.6, avg:     +2.9±     1.2, #dof:      1'
+logamplogampspectrum    :: 'reduced χ²:     1.0±   0.018, avg:  -0.0016±   0.019, #dof:   3238'
+logampxi                :: 'reduced χ²:     1.0±  0.0076, avg: +0.00083±  0.0026, #dof:  16384'
+logampzeromode          :: 'reduced χ²:     9.7±     4.6, avg:     -3.0±    0.76, #dof:      1'
+signsignasperity        :: 'reduced χ²:     6.5±     3.0, avg:     +2.5±     0.6, #dof:      1'
+signsignflexibility     :: 'reduced χ²:    0.61±    0.51, avg:     -0.1±    0.77, #dof:      1'
+signsignfluctuations    :: 'reduced χ²: 2.2e+01±     1.8, avg:     -4.7±    0.19, #dof:      1'
+signsignloglogavgslope  :: 'reduced χ²:     4.6±     2.8, avg:     +2.0±    0.69, #dof:      1'
+signsignspectrum        :: 'reduced χ²:     1.0±   0.013, avg:  -0.0011±   0.018, #dof:   3238'
+signxi                  :: 'reduced χ²:     1.0±  0.0088, avg: +0.00081±   0.011, #dof:  16384'
+signzeromode            :: 'reduced χ²:     5.2±     3.8, avg:     -2.1±    0.87, #dof:      1'
+
+
+OPTIMIZE_KL: Iteration 0006 ⛰:+2.0381e+04
+OPTIMIZE_KL: Linear sampling status (0, 0, 0, 0)
+OPTIMIZE_KL: #(KL minimization steps) 16
+OPTIMIZE_KL: Likelihood residual(s):
+'reduced χ²:     5.6±    0.88, avg:   -0.034±    0.34, #dof:    100'
+
+OPTIMIZE_KL: Prior residual(s):
+logamplogampasperity    :: 'reduced χ²:     1.2±     1.3, avg:   -0.093±     1.1, #dof:      1'
+logamplogampflexibility :: 'reduced χ²: 1.3e+01±     3.4, avg:     +3.6±    0.47, #dof:      1'
+logamplogampfluctuations:: 'reduced χ²:     1.9±    0.95, avg:     -1.3±    0.35, #dof:      1'
+logamplogamploglogavgslope:: 'reduced χ²:     4.3±     3.9, avg:     +1.8±     1.1, #dof:      1'
+logamplogampspectrum    :: 'reduced χ²:     1.0±   0.028, avg:  -0.0015±   0.012, #dof:   3238'
+logampxi                :: 'reduced χ²:     1.0±   0.011, avg: +0.00085±  0.0062, #dof:  16384'
+logampzeromode          :: 'reduced χ²:     4.5±     3.6, avg:     -1.9±    0.91, #dof:      1'
+signsignasperity        :: 'reduced χ²:     4.8±     4.4, avg:     +1.9±     1.1, #dof:      1'
+signsignflexibility     :: 'reduced χ²:    0.63±    0.87, avg:    -0.38±     0.7, #dof:      1'
+signsignfluctuations    :: 'reduced χ²: 2.3e+01±     3.4, avg:     -4.8±    0.36, #dof:      1'
+signsignloglogavgslope  :: 'reduced χ²:     1.3±     1.4, avg:    +0.52±     1.0, #dof:      1'
+signsignspectrum        :: 'reduced χ²:     1.0±   0.015, avg: -0.00069±   0.021, #dof:   3238'
+signxi                  :: 'reduced χ²:     1.0±  0.0079, avg: +0.00051±   0.011, #dof:  16384'
+signzeromode            :: 'reduced χ²: 1.2e+01±     5.8, avg:     -3.3±    0.86, #dof:      1'
+
